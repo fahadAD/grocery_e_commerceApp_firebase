@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749540337901",
+    "project_id": "fahad-grocery-e-commerce",
+    "storage_bucket": "fahad-grocery-e-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749540337901:android:0741b95b8a97f0251184e4",
+        "android_client_info": {
+          "package_name": "com.groceryfahad.grocery_project_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWjaTRJmaSujIIMrfcnc0T2D2S5Te42I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
